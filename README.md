@@ -25,6 +25,9 @@ Clone este repositório para sua máquina local.
 ``
   Software recomendados: insomnia ou postman
 ``
+```
+- npm start
+```
 ## Métodos de requisição HTTP Possíveis
 
 
